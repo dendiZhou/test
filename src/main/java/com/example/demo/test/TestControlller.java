@@ -8,6 +8,7 @@ public class TestControlller {
   
 	@RequestMapping("/test")
 	public String getHello() {
+		//输出
 		return "hello";
 	}
 }
