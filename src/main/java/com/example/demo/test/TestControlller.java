@@ -9,7 +9,7 @@ public class TestControlller {
 	@RequestMapping("/test")
 	public String getHello() {
                 //sys 注释123
-		System.out.println("test");
+		System.out.println("test123");
 		return "hellomaster123456789abc";
 	}
 }
