@@ -9,6 +9,6 @@ public class TestControlller {
 	@RequestMapping("/test")
 	public String getHello() {
                 //sys 注释
-		return "hellomaster123456789a";
+		return "hellomaster123456789ab";
 	}
 }
