@@ -9,6 +9,6 @@ public class TestControlller {
 	@RequestMapping("/test")
 	public String getHello() {
 
-		return "hellomaster123";
+		return "hellomaster123456";
 	}
 }
