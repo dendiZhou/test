@@ -10,6 +10,6 @@ public class TestControlller {
 	public String getHello() {
                 //sys 注释123
 		System.out.println("test");
-		return "hellomaster123456789abc";
+		return "hello World";
 	}
 }
