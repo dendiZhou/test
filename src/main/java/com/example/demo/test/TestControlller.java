@@ -9,6 +9,6 @@ public class TestControlller {
 	@RequestMapping("/test")
 	public String getHello() {
 		//输出456
-		return "hello123456";
+		return "helloV1";
 	}
 }
