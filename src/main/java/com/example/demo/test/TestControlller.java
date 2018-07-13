@@ -10,7 +10,7 @@ public class TestControlller {
 	public String getHello() {
 		//输出456
 
-		return "hellomaster";
+		return "hellomaster123";
 
 	}
 }
